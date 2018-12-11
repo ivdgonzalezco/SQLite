@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string-array name="classification">
+        <item>Consultoria</item>
+        <item>Desarrollo a la medida</item>
+        <item>Fabrica de Software</item>
+    </string-array>
+    <string name="new_company">Nueva Compañia</string>
+    <string name="dialog_message">Borrar Compañia</string>
+    <string name="dialog_title">¿Quiere borrar la compañia?</string>
+    <string name="ok">Si</string>
+    <string name="cancel">No</string>
+</resources>
